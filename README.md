@@ -5,8 +5,7 @@ The book is available to read [here](https://drive.google.com/drive/folders/1spx
 
 #### Codelabs Tools
 
-Read More about how to create the Google CodeLabs [here](https://github.com/googlecodelabs/tools).
-Want to read the [easy tutorial](https://medium.com/@zarinlo/publish-technical-tutorials-in-google-codelab-format-b07ef76972cd) instead? Tip: start from The execution.
+Read More about how to create tutorials using the Google CodeLabs CLaaT [here](https://github.com/googlecodelabs/tools). Want to read the easy and excellent [tutorial](https://medium.com/@zarinlo/publish-technical-tutorials-in-google-codelab-format-b07ef76972cd) instead?
 
 
 #### References
