@@ -3,6 +3,11 @@ This is an consolidated this space to write all the patterns described in the aw
 
 The book is available to read [here](https://drive.google.com/drive/folders/1spxvFuaszSlT7Lm0mIOViINHzYqpDkaI).
 
+#### Codelabs Tools
+
+Read More about how to create the Google CodeLabs [here](https://github.com/googlecodelabs/tools).
+Want to read the [easy tutorial](https://medium.com/@zarinlo/publish-technical-tutorials-in-google-codelab-format-b07ef76972cd) instead? Tip: start from The execution.
+
 
 #### References
 
