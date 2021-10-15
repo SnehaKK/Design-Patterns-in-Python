@@ -1,10 +1,10 @@
 # Design Patterns in Python
-This is an consolidated this space to write all the patterns described in the awesome book 'Head First Design Patterns' in Python.
+This is a consolidated this space to write all the patterns described in the awesome book 'Head First Design Patterns' in Python.
 
 The book is available to read [here](https://drive.google.com/drive/folders/1spxvFuaszSlT7Lm0mIOViINHzYqpDkaI).
 
 Another cool resource for python design pattern is by [Brandon Rhodes](https://python-patterns.guide/).
-#### Codelabs Tools
+#### Google Codelabs Tools
 
 Read More about how to create tutorials using the Google CodeLabs CLaaT [here](https://github.com/googlecodelabs/tools). Want to read the easy and excellent [tutorial](https://medium.com/@zarinlo/publish-technical-tutorials-in-google-codelab-format-b07ef76972cd) instead?
 
